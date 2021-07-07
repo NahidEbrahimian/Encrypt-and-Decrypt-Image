@@ -19,7 +19,7 @@
 
 ```
 
-- Run the following command for deecrypt image:
+- Run the following command for decrypt image:
 
 ```
 !python3 decrypt_image.py --encrypted_image .../output/encrypted_img.bmp --key .../output/key.npy
