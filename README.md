@@ -4,7 +4,7 @@
 
 # ![01](https://github.com/n-ebrahimian/Encrypt-and-Decrypt-Image/blob/main/input/01.jpg)
 
-- Encrypted image
+- Encrypted image using created key
 
 # ![encrypted_img](https://raw.githubusercontent.com/n-ebrahimian/Encrypt-and-Decrypt-Image/main/output/encrypted_img.bmp)   
                          
@@ -15,7 +15,7 @@
 - Run the following command for encrypt image:
 
 ```
-!python3 encrypt_image.py --input_image .../input/01.jpgg
+!python3 encrypt_image.py --input_image .../input/01.jpg
 
 ```
 
